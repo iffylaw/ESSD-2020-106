@@ -20,9 +20,9 @@
 ### Usage
 ----
 
-> ** Please execute the following statement in Rstudio or R software. ** 
+> **Please execute the following statement in Rstudio or R software.** 
 
->  First, please install ** ggplot2 ** package in Rstudio or R software, and set the environment variables.
+>  First, please install **ggplot2** package in Rstudio or R software, and set the environment variables.
 
 ```R
 install.packages('ggplot2')
@@ -38,19 +38,16 @@ DataRoot  <- './Data'
 FigRoot  <- './Figure'
 ```
 
-```r
+```R
 source('Meteorological.R')
 ```
 
-----
-> ** Or copy the code in Meteorological.R in turn and execute it in Rstudio or R software. **
+> **Or copy the code in Meteorological.R in turn and execute it in Rstudio or R software.**
+
+> **MAAT.R and MAGST.R have been implemented in Meteorological.R, no additional execution is required.**
 
 
-----
-> **  MAAT.R and MAGST.R have been implemented in Meteorological.R, no additional execution is required. **
-
-----
-```r
+```R
 source('MAAT.R')
 source('MAGST.R')
 ```
