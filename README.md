@@ -54,6 +54,10 @@ source('MAGST.R')
 ```
 
 ----
+### Operation video
+![Alt text](https://github.com/iffylaw/ESSD-2020-106/blob/main/Script%20-%20RStudio%202021-03-08%2015-41-00.mp4)
+
+----
 ### Requirements
 
 >- RStudio Version 1.3.959 or later
