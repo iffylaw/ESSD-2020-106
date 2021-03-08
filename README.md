@@ -22,10 +22,19 @@
 
 > ** Please execute the following statement in Rstudio or R software. ** 
 
->  First, please install ** ggplot2 ** package in Rstudio or R software.
+>  First, please install ** ggplot2 ** package in Rstudio or R software, and set the environment variables.
 > ```r
 install.packages('ggplot2')
 library('ggplot2')
+# Init
+# clear the environment
+rm(list=ls())
+# set workdir
+# setwd('./Script')
+# Data directory
+DataRoot  <- './Data'
+# Figure directory
+FigRoot  <- './Figure'
 > ```
 
 > ```r
@@ -69,4 +78,5 @@ source('MAGST.R')
 
 > [Luo, L., Zhuang, Y., Zhang, M., Zhang, Z., Ma, W., Zhao, W., Zhao, L., Wang, L., Shi, Y., Zhang, Z., Duan, Q., Tian, D., and Zhou, Q.,  An integrated observation dataset of the hydrological-thermal-deformation dynamics in the permafrost slopes and engineering infrastructure in the Qinghai-Tibet Engineering Corridor. Earth Syst. Sci. Data Discuss. 2020 ](https://doi.org/10.5194/essd-2020-106)
 
+----
 updated: 31/03/2021
