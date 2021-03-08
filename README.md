@@ -24,7 +24,7 @@
 
 >  First, please install ** ggplot2 ** package in Rstudio or R software, and set the environment variables.
 
-```r
+```R
 install.packages('ggplot2')
 library('ggplot2')
 # Init
