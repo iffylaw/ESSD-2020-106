@@ -42,10 +42,14 @@ FigRoot  <- './Figure'
 source('Meteorological.R')
 ```
 
+----
 > ** Or copy the code in Meteorological.R in turn and execute it in Rstudio or R software. **
 
+
+----
 > **  MAAT.R and MAGST.R have been implemented in Meteorological.R, no additional execution is required. **
 
+----
 ```r
 source('MAAT.R')
 source('MAGST.R')
