@@ -23,8 +23,7 @@
 > **Please execute the following statement in Rstudio or R software.** 
 
 >  First, please install **ggplot2** package in Rstudio or R software, and set the environment variables.
-
-```R
+> ```r
 install.packages('ggplot2')
 library('ggplot2')
 # Init
@@ -36,27 +35,27 @@ rm(list=ls())
 DataRoot  <- './Data'
 # Figure directory
 FigRoot  <- './Figure'
-```
+> ```
 
-```R
+> ```r
 source('Meteorological.R')
-```
+> ```
 
 > **Or copy the code in Meteorological.R in turn and execute it in Rstudio or R software.**
 
 > **MAAT.R and MAGST.R have been implemented in Meteorological.R, no additional execution is required.**
 
-
-```R
+> ```r
 source('MAAT.R')
 source('MAGST.R')
-```
+> ```
 
 ----
 ### Requirements
 
 >- RStudio Version 1.3.959 or later
 >- R Statistical Computing Software, 4.0.2 or later
+>- Package ggplot2 version 3.3.2
 
 ----
 ### License
