@@ -55,7 +55,11 @@ source('MAGST.R')
 
 ----
 ### Operation video
-![Alt text](https://github.com/iffylaw/ESSD-2020-106/blob/main/Script%20-%20RStudio%202021-03-08%2015-41-00.mp4)
+<iframe src="https://github.com/iffylaw/ESSD-2020-106/blob/main/ScriptRStudio.mp4" 
+scrolling="no" border="0" frameborder="no" 
+framespacing="0" allowfullscreen="true" 
+style="width:720px;height:480px"> 
+</iframe>
 
 ----
 ### Requirements
