@@ -18,6 +18,22 @@
 
 ----
 
+### Data
+
+>  The **Data directory** "./Data" contains the following data:
+
+
+|     Data file                                           |     Description    |   
+|---------------------------------------------------------|----------------------|
+| Golmud1955-2018.csv | Meteorological observations of Golmud field station |
+| Wudaoliang1956-2018.csv | Meteorological observations of Wudaoliang field station |
+| XDTMS2014-2018.csv |Meteorological observations of Xidatan field station |
+| XDTMS2014-2018_GT.csv | Xidatan field station, ONLY Ground Temperature in different layers|
+| XDTMS2014-2018_PREC.csv | Xidatan field station, ONLY Precipitation|
+| MAAT_MAGST_Golmud_Wudaoliang_1956-2018.csv | After running MAAT and MAGST, the data of the two field stations need to be merged together for plot. This data is data that has been manually merged.|
+
+----
+
 ### Usage
 
 
