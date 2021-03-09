@@ -32,6 +32,16 @@
 | XDTMS2014-2018_PREC.csv | Xidatan field station, ONLY Precipitation|
 | MAAT_MAGST_Golmud_Wudaoliang_1956-2018.csv | After running MAAT and MAGST, the data of the two field stations need to be merged together for plot. This data is data that has been manually merged.|
 
+> The **output data** is also placed in this directory.
+
+----
+
+### Figure
+
+> The output Figures are placed in this directory, and the **operation video** are also placed in this directory.
+
+
+
 ----
 
 ### Usage
