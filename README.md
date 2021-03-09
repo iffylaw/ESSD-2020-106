@@ -57,7 +57,7 @@ source('MAGST.R')
 
 ----
 ### Operation video
-![Operation GIF](https://app.yinxiang.com/shard/s16/res/395c097a-9c19-46db-a1ca-a79c522f8972/ScriptRstudio.gif)
+![Operation GIF](https://github.com/iffylaw/ESSD-2020-106/blob/main/ScriptRstudio.gif)
 
 ----
 ### Requirements
