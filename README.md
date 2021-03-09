@@ -5,7 +5,7 @@
 
 ----
 
-### Scripts
+### Script
 
 > ##### MAAT.R
 >- Function for computing Mean Annual Air Temperature (MAAT) index
