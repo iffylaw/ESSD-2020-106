@@ -17,8 +17,9 @@
 >- Plot Meteorogical station observation data, MAAT and MAGST indices
 
 ----
+
 ### Usage
-----
+
 
 > **Please execute the following statement in Rstudio or R software.** 
 
@@ -38,14 +39,15 @@ DataRoot  <- './Data'
 FigRoot  <- './Figure'
 ```
 
-> 
+> and then run Meteorological.R.
+
 ```r
 source('Meteorological.R')
 ```
 
-> **Or copy the code in Meteorological.R in turn and execute it in Rstudio or R software.**
+> Or copy the code in Meteorological.R **in turn** and execute it in Rstudio or R software.
 
-> **MAAT.R and MAGST.R have been implemented in Meteorological.R, no additional execution is required.**
+> MAAT.R and MAGST.R have been implemented in Meteorological.R, **no additional execution is required.**
 
 > 
 ```r
@@ -55,7 +57,7 @@ source('MAGST.R')
 
 ----
 ### Operation video
-![Alt text](https://github.com/iffylaw/ESSD-2020-106/blob/main/ScriptRstudio.gif)
+![Operation GIF](https://app.yinxiang.com/shard/s16/res/395c097a-9c19-46db-a1ca-a79c522f8972/ScriptRstudio.gif)
 
 ----
 ### Requirements
@@ -84,7 +86,7 @@ source('MAGST.R')
 ----
 ### Reference:
 
-> [Luo, L., Zhuang, Y., Zhang, M., Zhang, Z., Ma, W., Zhao, W., Zhao, L., Wang, L., Shi, Y., Zhang, Z., Duan, Q., Tian, D., and Zhou, Q.,  An integrated observation dataset of the hydrological-thermal-deformation dynamics in the permafrost slopes and engineering infrastructure in the Qinghai-Tibet Engineering Corridor. Earth Syst. Sci. Data Discuss. 2020 ](https://doi.org/10.5194/essd-2020-106)
+> Luo, L., Zhuang, Y., Zhang, M., Zhang, Z., Ma, W., Zhao, W., Zhao, L., Wang, L., Shi, Y., Zhang, Z., Duan, Q., Tian, D., and Zhou, Q.,  An integrated observation dataset of the hydrological-thermal-deformation dynamics in the permafrost slopes and engineering infrastructure in the Qinghai-Tibet Engineering Corridor. Earth Syst. Sci. Data Discuss. 2020.<https://doi.org/10.5194/essd-2020-106>
 
 ----
 updated: 31/03/2021
